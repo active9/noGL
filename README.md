@@ -9,6 +9,9 @@ noGL.js
 ### LICENSE ###
 - `MIT`
 
+### PREAMBLE ###
+> ***This script safely detects when a browser does not have canvas webGL support.***
+
 ### INSTALLATION ###
 > ***Add the following script tag inside the <head> of your web page***
   **be sure to replace the {PATH_TO_noGL} with the actual path to the script*
@@ -22,9 +25,6 @@ noGL.js
     document.write('<p class="chromeframe" style="z-index:9999;">Your browser or device does not support 3D rendering. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">Install Google Chrome</a> to better experience this site.</p>');
   }
 </script>`
-
-### PREAMBLE ###
-> ***This script detects when a browser does not have canvas webGL support.***
 
 ### CHECKLIST ###
 >*Requirements:*
