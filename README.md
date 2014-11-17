@@ -21,7 +21,7 @@ noGL.js
   if (!noGL) {
     document.write('<p class="chromeframe" style="z-index:9999;">Your browser or device does not support 3D rendering. <a href="http://browsehappy.com/">Upgrade your browser today</a> or <a href="http://www.google.com/chromeframe/?redirect=true">Install Google Chrome</a> to better experience this site.</p>');
   }
-</script`>
+</script>`
 
 ### PREAMBLE ###
 > ***This script detects when a browser does not have canvas webGL support.***
